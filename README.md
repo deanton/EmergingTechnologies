@@ -2,9 +2,9 @@
 Analyzing perception of Twitter users in regard to emerging technologies
 
 ## files
-keywords directory contains files with the keywords used to collect and categorize the tweets (one file for each emerging technology category)
-emerging_tweets-anon-sample.csv: is a sample of the first 100 tweets of the dataset (tab separated)
-emerging_tweets-anon.csv.gz: the anonymized dataset (tab separated)
+- keywords directory contains files with the keywords used to collect and categorize the tweets (one file for each emerging technology category)
+- emerging_tweets-anon-sample.csv: is a sample of the first 100 tweets of the dataset (tab separated)
+- emerging_tweets-anon.csv.gz: the anonymized dataset (tab separated)
 
 ## fields: 
 1. tweet_id: anonymized tweet id
